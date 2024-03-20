@@ -17,6 +17,7 @@ I'm now seeking full-time opportunities where I can apply my expertise in AI/ML,
 
 Experience
 ======
+------
 1. Data Scientist, Gravity iLabs
 2. Data Scientist, Nokia
 3. Software Engineer, Nokia
@@ -29,11 +30,14 @@ Education
 **Master of Science in Computer Science & Engineering, [University of California, Santa Cruz](https://www.ucsc.edu/)**
 #### September 2022 - Present | California, USA
 
-======
 ------
 
+<img align="left" height="100" width="100" src="../images/iitb.png" style="padding-right:15px">
 
-2. Post Graduation Diploma in Data Science, IIIT Bangalore
+**Post Graduation Diploma in Data Science, [IIIT, Bangalore](https://www.iiitb.ac.in/)**
+#### March 2020 - April 2021 | Bangalore, India
+
+------
 3. Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University
 
 Key-Skills
