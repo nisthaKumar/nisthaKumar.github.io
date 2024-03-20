@@ -30,7 +30,7 @@ Education
 
 ------
 
-<img align="left" height="100" width="100" src="../images/iitb.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/iiitb.png" style="padding-right:15px">
 
 **Post Graduation Diploma in Data Science, [IIIT, Bangalore](https://www.iiitb.ac.in/)**
 #### March 2020 - April 2021 | Bangalore, India
