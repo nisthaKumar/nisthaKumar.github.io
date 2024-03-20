@@ -17,14 +17,12 @@ I'm now seeking full-time opportunities where I can apply my expertise in AI/ML,
 
 Experience
 ======
-------
 1. Data Scientist, Gravity iLabs
 2. Data Scientist, Nokia
 3. Software Engineer, Nokia
 
 Education
 ======
-------
 <img align="left" height="100" width="100" src="../images/UCSC.png" style="padding-right:15px">
 
 **Master of Science in Computer Science & Engineering, [University of California, Santa Cruz](https://www.ucsc.edu/)**
