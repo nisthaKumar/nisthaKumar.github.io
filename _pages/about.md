@@ -24,7 +24,7 @@ Experience
 Education
 ======
 ------
-<img align="left" height="100" width="100" src="../images/UCSC.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/UCSC.png" style="padding-right:15px">
 
 **Master of Science in Computer Science & Engineering, [University of California, Santa Cruz](https://www.ucsc.edu/)**
 #### September 2022 - Present | California, USA
