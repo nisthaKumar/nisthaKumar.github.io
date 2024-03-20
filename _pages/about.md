@@ -17,19 +17,15 @@ I'm now seeking full-time opportunities where I can apply my expertise in AI/ML,
 
 Experience
 ======
-Data Scientist, Gravity iLabs
-------
-Data Scientist, Nokia
-------
-Software Engineer, Nokia
+1. Data Scientist, Gravity iLabs
+2. Data Scientist, Nokia
+3. Software Engineer, Nokia
 
 Education
 ======
-Master of Science in Computer Science & Engineering, University of California, Santa Cruz
-------
-Post Graduation Diploma in Data Science, IIIT Bangalore
-------
-Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University
+1. Master of Science in Computer Science & Engineering, University of California, Santa Cruz
+2. Post Graduation Diploma in Data Science, IIIT Bangalore
+3. Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University
 
 Key-Skills
 ======
