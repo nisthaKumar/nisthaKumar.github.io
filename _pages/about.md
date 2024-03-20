@@ -28,7 +28,10 @@ Education
 
 **Master of Science in Computer Science & Engineering, [University of California, Santa Cruz](https://www.ucsc.edu/)**
 #### September 2022 - Present | California, USA
+
 ======
+------
+
 
 2. Post Graduation Diploma in Data Science, IIIT Bangalore
 3. Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University
