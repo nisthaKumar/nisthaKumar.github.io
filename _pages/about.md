@@ -17,9 +17,37 @@ I'm now seeking full-time opportunities where I can apply my expertise in AI/ML,
 
 Experience
 ======
-1. Data Scientist, Gravity iLabs
-2. Data Scientist, Nokia
-3. Software Engineer, Nokia
+<img align="left" height="100" width="100" src="../images/gravity.webp" style="padding-right:15px">
+
+**Data Scientist, [Gravity iLabs](https://www.gravityilabs.com/)**
+#### Feb 2021 - July 2022 | Bangalore, India
+------
+* Designed and Developed robust and scalable ETL data warehouse with a throughput of 2000 RPS achieved via AWS S3 and Redshift.
+* Increased end-users operational efficiency by 70% implementing a centralized dataset which powers over 50 insightful dashboards using Power BI.
+* Deployed stored procedures on Azure reducing data processing time by 45% within the data lake.
+* Developed a multi-tenancy model, reducing  TAT for client onboarding by 80%. 
+* Developed a KNN model to predict project completion status with 92% accuracy based on project objectives, risks, benefits, and budget, empowering business leaders to gauge project complexities and optimize for timely completion.
+
+------
+<img align="left" height="100" width="100" src="../images/nokia.jpeg" style="padding-right:15px">
+
+**Data Scientist, [Nokia](https://www.nokia.com/)**
+#### Jan 2019 - Feb 2021 | Bangalore, India
+------
+* Designed and developed a 5G and Small Cells S-Curve dashboard using REST APIs to enable global tracking of development and testing progress across multiple teams. This  resulted in an increase in efficiency in decision-making for business leaders.
+* Engineered an advanced JIRA dashboard, utilizing the JIRA API to provide comprehensive project management insights, streamline task management across sprints, resulting in a 30% increase in task efficiency.
+* Automated dataset preparation using Python, Postgres, and ETL processes with scheduled cron jobs, resulting in a 90% reduction in manual effort and saving 15+  hours per week.
+
+------
+<img align="left" height="100" width="100" src="../images/nokia.jpeg" style="padding-right:15px">
+
+**Software Engineer, [Nokia](https://www.nokia.com/)**
+#### Jun 2016 - Dec 2018 | Bangalore, India
+------
+* Developed an automation suite using RIDE, causing a 40% reduction in testing time and leading to 100% test coverage.
+* Conducted High Availability testing, injecting service failures and assessing system behavior to ensure robustness and fault tolerance thereby reducing downtime by 40%.
+* Executed 100+ test scenarios, resulting in an improved software quality and a 15% reduction in customer issues.
+
 
 Education
 ======
@@ -27,16 +55,44 @@ Education
 
 **Master of Science in Computer Science & Engineering, [University of California, Santa Cruz](https://www.ucsc.edu/)**
 #### September 2022 - Present | California, USA
+------
+Currently pursuing my Graduate degree in Computer Science with concentration in AI/ML. <br>
+<strong>CGPA: </strong> 3.9/4.0 <br>
+<strong>Relevant coursework:</strong>
+* <strong>Winter '24: </strong>Principles of Computer System Design<br>
+* <strong>Fall '23: </strong>Statistical Data Analysis, Deep Learning<br>
+* <strong>Spring '23: </strong>Software Design, Programming Languages<br>
+* <strong>Winter '23: </strong>Artificial Intelligence, Computer Graphics<br>
+* <strong>Fall '22: </strong>Machine Learning, Analysis of Algorithms<br>
+<br>
 
 ------
 
 <img align="left" height="100" width="100" src="../images/iiitb.png" style="padding-right:15px">
 
-**Post Graduation Diploma in Data Science, [IIIT, Bangalore](https://www.iiitb.ac.in/)**
+**Post Graduation Diploma in Data Science, [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/)**
 #### March 2020 - April 2021 | Bangalore, India
+------
+<strong>CGPA:</strong> 4.0/4.0 <br> 
+<strong>Relevant coursework:</strong>  Machine Learning, Advanced Machine Learning, Data Warehousing and Data Mining, Deep Learning <br>
+<br>
 
 ------
-3. Bachelor of Engineering in Computer Science & Engineering, Visvesvaraya Technological University
+
+<img align="left" height="100" width="100" src="../images/vtu.webp" style="padding-right:15px">
+
+**Bachelor of Engineering in Computer Science & Engineering, [Visvesvaraya Technological University, Bangalore](https://vtu.ac.in/)**
+#### March 2020 - April 2021 | Bangalore, India
+------
+<strong>CGPA:</strong> 4.0/4.0 <br> 
+<strong>Relevant coursework:</strong>  Data Structures, Analysis and Design of Algorithm, Operating Systems, Software Engineering, 
+Systems Software <br>
 
 Key-Skills
 ======
+* <strong> Programming Languages: </strong> Python, R, Java, C, Javascript <br>
+* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Ggplot <br>
+* <strong> Databases: </strong> MySQL, PostgreSQL, Cassandra, MongoDB, SSMS, SSIS <br>
+* <strong> Visualization Tools: </strong> PowerBI, Tableau, Grafana <br>
+* <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
+* <strong> Also skilled in: </strong> AWS EC2, AWS Redshift, S3, GCP, Jira, Git, MS Excel, Computer Vision, CI/CD, Docker, Kubernetes, Data Structures and Algorithms, System Design, REST <br>
