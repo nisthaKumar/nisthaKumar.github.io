@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "Testimonials"
 permalink: /testimonials/
+title: "Testimonials"
 author_profile: true
+redirect_from: 
+  - /testimonials.html
 ---
-
 -----
 [Prof. Kishore Pusukuri](https://www.linkedin.com/in/pusukuri/), Principal Software Architect at Apple
 

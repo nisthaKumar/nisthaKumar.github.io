@@ -21,7 +21,7 @@ repository               : "nisthakumar/nisthakumar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Nistha Kumar"
   pronouns         : "she/her"  
   bio              : "Data Science | Data Analyst | Business Intelligence"
@@ -208,7 +208,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  testimonials:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -260,12 +260,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _testimonials
+  # _talks
   - scope:
       path: ""
-      type: testimonials
+      type: talks
     values:
-      layout: testimonials
+      layout: talk
       author_profile: true
       share: true
       
