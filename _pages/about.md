@@ -96,3 +96,5 @@ Key-Skills
 * <strong> Visualization Tools: </strong> PowerBI, Tableau, Grafana <br>
 * <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
 * <strong> Also skilled in: </strong> AWS EC2, AWS Redshift, S3, GCP, Jira, Git, MS Excel, Computer Vision, CI/CD, Docker, Kubernetes, Data Structures and Algorithms, System Design, REST <br>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_L-eHeey2qXwkNCGaCVxfWu44GbRjWLu53ceKsGDGCI"></script>
