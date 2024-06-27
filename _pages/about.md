@@ -97,4 +97,26 @@ Key-Skills
 * <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
 * <strong> Also skilled in: </strong> AWS EC2, AWS Redshift, S3, GCP, Jira, Git, MS Excel, Computer Vision, CI/CD, Docker, Kubernetes, Data Structures and Algorithms, System Design, REST <br>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_L-eHeey2qXwkNCGaCVxfWu44GbRjWLu53ceKsGDGCI"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        #clustrmaps-container {
+            width: 400px;  /* Adjust the width as needed */
+            height: 400px; /* Adjust the height as needed */
+        }
+        #clustrmaps-container iframe {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <title>ClustrMaps Globe</title>
+</head>
+<body>
+    <div id="clustrmaps-container">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_L-eHeey2qXwkNCGaCVxfWu44GbRjWLu53ceKsGDGCI"></script>
+    </div>
+</body>
+</html>
