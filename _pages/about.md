@@ -97,7 +97,7 @@ Key-Skills
 * <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
 * <strong> Also skilled in: </strong> AWS EC2, AWS Redshift, S3, GCP, Jira, Git, MS Excel, Computer Vision, CI/CD, Docker, Kubernetes, Data Structures and Algorithms, System Design, REST <br>
 
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
