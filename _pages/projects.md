@@ -19,7 +19,7 @@ author_profile: true
 Here is the - [Github Repo](https://github.com/nisthaKumar/AutograderLLMPrompts)
 
 -----
-<img align="left" height="200" width="200" src="../images/LLMSmartChat.gif" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/LLMSmartChat.gif" style="padding-right:25px">
 
 **LLM Smart Chat**
 #### Nov 2024 | California , USA
