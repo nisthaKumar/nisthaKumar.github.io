@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="200" width="200" src="../images/Pacman.gif" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/Pacman.gif" style="padding-right:100px">
 
 **AI-Powered PacMan Commentary, AIEA Lab, UCSC**
 #### Jan 2024 - Present | California, USA
@@ -19,7 +19,7 @@ author_profile: true
 Here is the - [Github Repo](https://github.com/nisthaKumar/AutograderLLMPrompts)
 
 -----
-<img align="left" height="200" width="200" src="../images/pubg.gif" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/pubg.gif" style="padding-right:5px">
 
 **Road To Chciken Dinner**
 #### Nov 2023 - Dec 2023 | California , USA
@@ -43,7 +43,7 @@ Here is the - [Github Repo](https://github.com/nisthaKumar/Road-To-Chicken-Dinne
 Here is the - [Github Repo](https://github.com/nisthaKumar/Image-Classification-using-Transfer-Learning)
 
 -----
-<img align="left" height="200" width="200" src="../images/eyefortheblind.png" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/eyefortheblind.jpg" style="padding-right:15px">
 
 **Eye for the Blind**
 #### Jan 2021 - March 2021 | Bangalore, India
