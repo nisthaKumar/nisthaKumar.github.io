@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/Pacman.gif" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/Pacman.gif" style="padding-right:15px">
 
 **AI-Powered PacMan Commentary, AIEA Lab, UCSC**
 #### Jan 2024 - Present | California, USA
@@ -19,7 +19,7 @@ author_profile: true
 Here is the - [Github Repo](https://github.com/nisthaKumar/AutograderLLMPrompts)
 
 -----
-<img align="left" height="100" width="100" src="../images/pubg.gif" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/pubg.gif" style="padding-right:15px">
 
 **Road To Chciken Dinner**
 #### Nov 2023 - Dec 2023 | California , USA
@@ -31,7 +31,7 @@ Here is the - [Github Repo](https://github.com/nisthaKumar/AutograderLLMPrompts)
 Here is the - [Github Repo](https://github.com/nisthaKumar/Road-To-Chicken-Dinner)
 
 -----
-<img align="left" height="100" width="100" src="../images/huggingFace.png" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/huggingFace.png" style="padding-right:15px">
 
 **Image Classification Using Transfer Learning**
 #### Nov 2023 - Dec 2023 | California, USA
@@ -40,10 +40,10 @@ Here is the - [Github Repo](https://github.com/nisthaKumar/Road-To-Chicken-Dinne
 * Trained a Swin Large Vision Transformers on a custom dataset to classify images into 100 classes.
 * Utilized Hugging Face’s PyTorch image models library to build and train the transformer and achieved an accuracy of 82%.<br>
 
-Here is the - [Github Repo](https://github.com/nisthaKumar/Road-To-Chicken-Dinner)
+Here is the - [Github Repo](https://github.com/nisthaKumar/Image-Classification-using-Transfer-Learning)
 
 -----
-<img align="left" height="100" width="100" src="../images/.png" style="padding-right:15px">
+<img align="left" height="200" width="200" src="../images/eyefortheblind.png" style="padding-right:15px">
 
 **Eye for the Blind**
 #### Jan 2021 - March 2021 | Bangalore, India
@@ -53,7 +53,7 @@ Here is the - [Github Repo](https://github.com/nisthaKumar/Road-To-Chicken-Dinne
 empowering visually impaired individuals to comprehend images; achieved accessibility and inclusiveness for 1000+ users.
 * Deployed the model on AWS using FLASK with a TAT of 2 seconds.<br>
 
-Here is the - [Github Repo](https://github.com/nisthaKumar/Road-To-Chicken-Dinner)
+Here is the - [Github Repo](https://github.com/nisthaKumar/Eye-For-The-Blind)
 
 -----
 
