@@ -19,6 +19,18 @@ author_profile: true
 Here is the - [Github Repo](https://github.com/nisthaKumar/AutograderLLMPrompts)
 
 -----
+<img align="left" height="200" width="200" src="../images/LLMSmartChat.gif" style="padding-right:15px">
+
+**LLM Smart Chat**
+#### Nov 2024 | California , USA
+
+-----
+* Leveraged a Large Language Model (LLM) (OpenAI) to answer user queries based on the contents of a pdf file.
+* Utilized efficient document chunking and retrieval techniques to ensure that only the most relevant sections of the document are used to generate context-specific answers.
+
+Here is the - [Github Repo](https://github.com/nisthaKumar/LLMSmartChat)
+
+-----
 <img align="left" height="200" width="200" src="../images/pubg.gif" style="padding-right:15px">
 
 **Road To Chciken Dinner**
