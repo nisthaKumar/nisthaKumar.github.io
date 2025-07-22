@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hey, Thanks for visiting my website. As an MS Computer Science student specializing in AI/ML and Analytics at UCSC, I am deeply passionate about leveraging data to drive meaningful insights and actionable outcomes. With hands-on experience as a Data Scientist, I've developed a strong skill set in building scalable data pipelines and crafting tailored solutions to address diverse business challenges.
+Hey there — thanks for dropping by!
+I’m an AI/ML Engineer at STG, currently building intelligent agents that (hopefully) make life a little easier. I completed my Master’s in Computer Science from UCSC in December 2024, with a focus on AI, ML, and Analytics.
 
-In my role, I've had the privilege of collaborating closely with stakeholders to understand their unique data requirements and translate them into actionable strategies. By harnessing the power of data, I've been able to deliver tangible improvements such as increased operational efficiency and reduced manual effort, resulting in measurable business impact.
+I'm passionate about turning raw data into smart decisions. With hands-on experience as a Data Scientist, I’ve built scalable data pipelines, collaborated with stakeholders, and delivered solutions that actually move the needle—think improved efficiency, less manual grunt work, and real business impact.
 
-I thrive on the opportunity to uncover valuable insights hidden within complex datasets and present them in a clear and compelling manner to clients. My goal is to continue pushing the boundaries of what's possible with data analytics, driving innovation and driving business success.
+I love digging into messy datasets, finding the hidden patterns, and turning complex insights into clear, actionable stories. Whether it's building, analyzing, or presenting—I'm all in.
 
-I'm now seeking full-time opportunities where I can apply my expertise in AI/ML, analytics, and data science to make a meaningful contribution. Let's connect and explore how I can help your organization achieve its data-driven objectives.
+Let’s connect and chat about all things data, AI, or whatever you're curious about. Always up for an interesting challenge!
 
 Experience
 ======
