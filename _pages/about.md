@@ -17,6 +17,14 @@ I'm now seeking full-time opportunities where I can apply my expertise in AI/ML,
 
 Experience
 ======
+<img align="left" height="100" width="100" src="../images/STG_Logo.jpeg" style="padding-right:15px">
+
+**AI/ML Engineer, [STG](https://stg.com/)**
+#### May 2025 - Present | Bangalore, India
+------
+* Building Agents
+
+------
 <img align="left" height="100" width="100" src="../images/gravity.webp" style="padding-right:15px">
 
 **Data Scientist, [Gravity iLabs](https://www.gravityilabs.com/)**
@@ -56,7 +64,6 @@ Education
 **Master of Science in Computer Science & Engineering, [University of California, Santa Cruz](https://www.ucsc.edu/)**
 #### September 2022 - Present | California, USA
 ------
-Currently pursuing my Graduate degree in Computer Science with concentration in AI/ML. <br>
 <strong>CGPA: </strong> 3.9/4.0 <br>
 <strong>Relevant coursework:</strong>
 * <strong>Winter '24: </strong>Principles of Computer System Design<br>
@@ -84,7 +91,7 @@ Currently pursuing my Graduate degree in Computer Science with concentration in 
 **Bachelor of Engineering in Computer Science & Engineering, [Visvesvaraya Technological University, Bangalore](https://vtu.ac.in/)**
 #### March 2020 - April 2021 | Bangalore, India
 ------
-<strong>CGPA:</strong> 4.0/4.0 <br> 
+<strong>CGPA:</strong> 8.0/10.0<br> 
 <strong>Relevant coursework:</strong>  Data Structures, Analysis and Design of Algorithm, Operating Systems, Software Engineering, 
 Systems Software <br>
 
